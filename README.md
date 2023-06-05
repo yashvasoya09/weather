@@ -26,15 +26,13 @@ samples, guidance on mobile development, and a full API reference.
 <img src = "https://github.com/yashvasoya09/weather/assets/120082183/ee933b97-02b6-42c7-a4ca-a099a0ab212e" height="100%"width="100%">
 </p>
 
-<p>
-<img src = "https://github.com/yashvasoya09/weather/assets/120082183/2bbc35eb-b307-4e92-abab-ee754fce0717" height="50%"width="50%">
-</p>
 
 
 https://github.com/yashvasoya09/weather/assets/120082183/2134dcf0-0967-458a-8abb-726285d90a73
 
-
-
+<p>
+<img src = "https://github.com/yashvasoya09/weather/assets/120082183/2bbc35eb-b307-4e92-abab-ee754fce0717" height="50%"width="50%">
+</p>
 
 <p>
 <img src = "https://github.com/yashvasoya09/weather/assets/120082183/f4221dd3-041c-4221-bd68-6624661b019e " height="50%"width="50%">
