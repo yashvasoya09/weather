@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-<img src = "https://github.com/yashvasoya09/weather/assets/120082183/71538001-d707-452c-992a-8024449ebda0" height="50%"width="50%">
+<img src = "https://github.com/yashvasoya09/weather/assets/120082183/71538001-d707-452c-992a-8024449ebda0" height="80%"width="80%">
 </p>
 
 
