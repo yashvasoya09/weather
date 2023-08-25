@@ -27,11 +27,6 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 
 
-<p>
-<img src = "https://github.com/yashvasoya09/weather/assets/120082183/0471b78c-71d5-486a-8f68-897d58c9cdd4" height="50%"width="50%">
-</p>
-
-
 
 
 https://github.com/yashvasoya09/weather/assets/120082183/1e3cd099-d25a-43c8-9192-4d860a9c339a
