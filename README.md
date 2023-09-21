@@ -17,27 +17,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-<p>
-<img src = "https://github.com/yashvasoya09/weather/assets/120082183/71538001-d707-452c-992a-8024449ebda0" height="100%"width="100%">
-</p>
-
-
-<p>
-<img src = "https://github.com/yashvasoya09/weather/assets/120082183/ee933b97-02b6-42c7-a4ca-a099a0ab212e" height="100%"width="100%">
-</p>
 
 
 
 
 https://github.com/yashvasoya09/weather/assets/120082183/1e3cd099-d25a-43c8-9192-4d860a9c339a
 
-
-
-
-https://github.com/yashvasoya09/weather/assets/120082183/995a5e80-d9fa-45a3-88e1-62ff76a0fb3b
-
-
-
-https://github.com/yashvasoya09/weather/assets/120082183/2134dcf0-0967-458a-8abb-726285d90a73
 
 
