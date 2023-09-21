@@ -1,4 +1,3 @@
-![dfs_samsung-galaxys20-cloudblue-portrait](https://github.com/yashvasoya09/weather/assets/120082183/b421b76d-b60e-4355-b983-f82a5846ca47)
 # weather
 
 A new Flutter project.
