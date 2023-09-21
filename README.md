@@ -40,7 +40,4 @@ https://github.com/yashvasoya09/weather/assets/120082183/995a5e80-d9fa-45a3-88e1
 
 https://github.com/yashvasoya09/weather/assets/120082183/2134dcf0-0967-458a-8abb-726285d90a73
 
-<p>
-<img src = "https://github.com/yashvasoya09/weather/assets/120082183/2bbc35eb-b307-4e92-abab-ee754fce0717" height="50%"width="50%">
-</p>
 
